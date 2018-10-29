@@ -1,2 +1,1 @@
-# stbi
-Tugas Mata Kuliah STBI
+# Tugas-STBI
